@@ -35,4 +35,4 @@ If you are able and willing, you can optionally have a 7 day version of the prog
 ## Suggestions
 
 ### 1RM Test
-Test your newly found strength with an AMRAP of your last week's 7RM for example. The smolov base cycle has you high-volume squatting in the "basic strength" region and you may find your "limit strength" (90%+ 1RM) to be lagging behind. Test yourself on higher reps and use a calculator to estimate your new 1RM which you can potentially use for another cycle.
+Test your newly found strength with an AMRAP of your last week's day 2 (sets of 7) weight for example. The smolov base cycle has you high-volume squatting in the "basic strength" region and you may find your "limit strength" (90%+ 1RM) to be lagging behind. Test yourself on higher reps and use a calculator to estimate your new 1RM which you can potentially use for another cycle.
