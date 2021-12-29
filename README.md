@@ -18,7 +18,7 @@ TLDR: I believe the author of smolov intended for intensity to be constant acros
 
 ### Weight addition
 
-The smolov base cycle recommends adding 19kg in week 2 and another 5kg in week 3. I believe this recommendation is made for the average male with, let's say a 150kg squat.
+The smolov base cycle recommends adding 10kg in week 2 and another 5kg in week 3. I believe this recommendation is made for the average male with, let's say a 150kg squat.
 But does it make any sense for a, e.g. small female lifter, with a 60kg squat to add 10kg from one week to the next? That is relatively a 2.5 times bigger jump than for the 150kg squatting male.
 I hypothesise that the weekly increment should be proportional to the previous week's weight. The increase percentage chosen in the spreadsheet is such that it will approximately give the 10kg and 5kg increases of the smolov base cycle in the case of a ~150kg 1RM.
 
