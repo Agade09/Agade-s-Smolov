@@ -2,6 +2,7 @@
 The smolov base cycle is a popular high-frequency training routine mainly used for squats and bench press. It is often referred to as "smolov Jr". This is my adaptation of it.
 
 [Spreadsheet Download Link](https://github.com/Agade09/Agade-s-Smolov/raw/master/Agade_Smolov.ods)
+![Spreadsheet preview](Preview.png)
 
 ## Differences
 
