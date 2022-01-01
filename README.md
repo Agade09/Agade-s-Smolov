@@ -32,6 +32,10 @@ If your program is going very well, the spreadsheet includes buttons to add an e
 
 If you are able and willing, you can optionally have a 7 day version of the program which spreads out the volume across the week. This makes the volume a bit more manageable and the increased frequency may be beneficial to your progress.
 
+### Weights rounding
+
+Several weight-rounding options are available from a drop-down menu. The default "Common" option assumes you have IWF-style kg change plates (0.5,1,1.5,2,2.5) and 1.25 plates. The other options will round the weights to the specified number. For example, lbs users may want to round to the nearest 2.5 because 1.25 seems to be the smallest lb plate commonly available.
+
 ## Suggestions
 
 ### 1RM Test
