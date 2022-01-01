@@ -14,7 +14,7 @@ However, when we add a constant 10kg to both 70% and 85% in week 2, we are no lo
 Indeed, let us imagine a smolov base cycle for a 100kg 1RM. W1D1 is 70kg, W1D4 is 85kg, W2D1 is 80kg and W2D4 is 95kg. If we use an [online RM calculator](https://exrx.net/Calculators/OneRepMax) we can see that 70kg for sets of 9 and 85kg for sets of 3 corresponds to the same intensity of 90kg. But 80kg for sets of 9 and 95kg for sets of 3 makes the sets of 9 of a harder intensity by 2kg. In week 3 the sets of 9 are of a 3kg harder intensity.
 We can fix this by, for example, lifting 70/75/80/85 percent of (1RM + 12kg) instead of lifting (70/75/80/85% 1RM) +10kg.
 
-TLDR: I believe the author of smolov intended for intensity to be constant across the week but it is slightly not. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early week.
+TLDR: I believe the author of smolov intended for intensity to be constant across the week but it is slightly not in weeks 2/3. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early weeks 2/3.
 
 ### Weight addition
 
