@@ -37,6 +37,10 @@ If your program is going very well, the spreadsheet includes buttons to add an e
 
 Several weight-rounding options are available from a drop-down menu. The default "Common" option assumes you have IWF-style kg change plates (0.5,1,1.5,2,2.5) and 1.25 plates. The other options will round the weights to the specified number. For example, lbs users may want to round to the nearest 2.5 because 1.25 seems to be the smallest lb plate commonly available.
 
+### Export PNG button
+
+A button allows exporting of the program to an image.
+
 ## Suggestions
 
 ### 1RM Test
