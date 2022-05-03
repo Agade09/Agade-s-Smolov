@@ -20,7 +20,7 @@ Example: 100kg 1RM
 
 We can fix this by, for example, lifting 70/75/80/85 percent of (1RM + 12kg) instead of lifting (70/75/80/85% 1RM) +10kg.
 
-TLDR: I believe the author of smolov intended for intensity to be constant across the week but it is slightly not in weeks 2/3. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early weeks 2/3.
+TLDR: I believe the author of smolov intended for intensity to be constant across the week but it is slightly not in weeks 2/3. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early week for weeks 2/3.
 
 ### Weight addition
 
