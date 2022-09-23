@@ -6,13 +6,13 @@ The smolov base cycle is a popular high-frequency training routine mainly used f
 
 ## Differences
 
-### Inconsistent intensity
+### Inconsistent relative intensity
 
 The smolov base cycle suggests adding 10kg in week 2 and another 5kg in week 3. The problem is that this adds the same amount of weight to days 1 and 4.
-If we look at the percentages chosen for week 1 of the smolov base cycle: 70%/75%/80%/85% for sets of 9/7/5/3. One can see, using a [RM calculator](https://exrx.net/Calculators/OneRepMax) that those percentages are chosen such that intensity is constant across the week. However, when we add a constant 10kg to both 70% and 85% in week 2, we are no longer maintaining a constant intensity across the week.
+If we look at the percentages chosen for week 1 of the smolov base cycle: 70%/75%/80%/85% for sets of 9/7/5/3. One can see, using a [RM calculator](https://exrx.net/Calculators/OneRepMax) that those percentages are chosen such that relative intensity is constant across the week. However, when we add a constant 10kg to both 70% and 85% in week 2, we are no longer maintaining a constant relative intensity across the week.
 
 Example: 100kg 1RM
- Week | D1 9 reps | D4 3 reps | D1 [Calculated intensity](https://exrx.net/Calculators/OneRepMax) | D4 [Calculated intensity](https://exrx.net/Calculators/OneRepMax)  | D4/D1 Ratio
+ Week | D1 9 reps | D4 3 reps | D1 [Calculated relative intensity](https://exrx.net/Calculators/OneRepMax) | D4 [Calculated relative intensity](https://exrx.net/Calculators/OneRepMax)  | D4/D1 Ratio
  ---- |----| ---| ------------                                                      | ------------                                                                     | ----
    1  | 70 | 85 | 90                                                                | 90                                                                               | 1.214
    2  | 80 | 95 | 103                                                               | 101                                                                              | 1.187
@@ -20,7 +20,7 @@ Example: 100kg 1RM
 
 We can fix this by, for example, lifting 70/75/80/85 percent of (1RM + 12kg) instead of lifting (70/75/80/85% 1RM) +10kg.
 
-TLDR: I believe the author of smolov intended for intensity to be constant across the week but it is slightly not in weeks 2/3. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early week for weeks 2/3.
+TLDR: I believe the author of smolov intended for relative intensity to be constant across the week but it is slightly not in weeks 2/3. As compared to the smolov base cycle, Agade's smolov has a slightly lighter early week for weeks 2/3.
 
 ### Weight addition
 
